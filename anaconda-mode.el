@@ -94,7 +94,7 @@
 (declare-function posframe-show "posframe")
 
 ;;; Server.
-(defvar anaconda-mode-server-version "0.1.17"
+(defvar anaconda-mode-server-version "0.1.18"
   "Server version needed to run `anaconda-mode'.")
 
 (defvar anaconda-mode-process-name "anaconda-mode"
